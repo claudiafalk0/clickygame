@@ -59,7 +59,7 @@ class App extends Component {
 
     render() {
         return (
-            <BrowserRouter basename="/course-directory">
+            <BrowserRouter basename="/clickygame">
                 <Wrapper>
                     <h1 className='title'>Click an image to begin</h1>
                     <div>
